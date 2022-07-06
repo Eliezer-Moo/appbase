@@ -1,0 +1,7 @@
+{
+  "name": "appbase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
